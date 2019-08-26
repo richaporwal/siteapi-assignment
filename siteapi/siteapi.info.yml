@@ -1,0 +1,5 @@
+name: 'siteapi'
+type: module
+description: 'Set a Site API Key , JSON representation of a  node type page using the API Key.'
+core: 8.x
+package: 'Custom'

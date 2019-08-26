@@ -1,0 +1,6 @@
+services:
+  siteapi.route_subscriber:
+    class: 'Drupal\siteapi\Routing\SiteInfoRouteSubscriber'
+    tags:
+      - { name: event_subscriber }
+
